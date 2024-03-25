@@ -16,11 +16,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Praneeth</h1>
-<h3 align="center">A passionate technophile from India</h3>
+<h3 align="center">A Passionate Technophile from Hyderabad, India</h3>
 
 - 🔭 I'm currently pursuing my UG (B.E)
 - 🌱 I’m currently learning Machine Learning and AI
+- 👯 I’m looking to collaborate on Data Sceince and Machine Learning, Android Development Projects
+- 🤔 I’m looking for help with [Stock_Dashboard](https://github.com/praneethsattavaram/Stock_Dashboard) | [Nifty50-Portfolio](https://github.com/praneethsattavaram/Nifty50-Portfolio)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/praneeth-reddy-841641205/) | [Mail](mailto:praneethsattavaram@gmail.com)
+- 📝 My Resume: [Resume](https://drive.google.com/file/d/1-5V3BXK71dOw7gMBHcBep44Y-C8Y87bO/view?usp=sharing)
 - 😄 Pronouns: He/Him
 
 ---
@@ -44,6 +47,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android Development" width="40" height="40"/>
 <!--   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>  -->
 </p>
@@ -52,8 +56,12 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/praneeth-reddy-841641205/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Praneeth's LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/praneeth-reddy-841641205/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Praneeth's LinkedIn" height="30" width="30" /></a>
   <a href="https://twitter.com/praneeth_dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Praneeth's Twitter" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/praneethsattavaram/" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Praneeth's Instagram" height="30" width="30" />
+</a>
+
 <!--   <a href="mailto:praneethsattavaram@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="Praneeth's Email" height="30" width="40" /></a> -->
 </p>
 
