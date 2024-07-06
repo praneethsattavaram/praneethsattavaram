@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Data Sceince and Machine Learning, Android Development Projects
 - 🤔 I’m looking for help with [Stock_Dashboard](https://github.com/praneethsattavaram/Stock_Dashboard) | [Nifty50-Portfolio](https://github.com/praneethsattavaram/Nifty50-Portfolio)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/praneeth-reddy-841641205/) | [Mail](mailto:praneethsattavaram@gmail.com)
-- 📝 My Resume: [Resume](https://drive.google.com/file/d/1-5V3BXK71dOw7gMBHcBep44Y-C8Y87bO/view?usp=sharing)
+- 📝 My Resume: [Resume](https://drive.google.com/file/d/1pwee54NDt3r_oUZFwVHSj9H5U8Hsq9IM/view)
 - 😄 Pronouns: He/Him
 
 ---
