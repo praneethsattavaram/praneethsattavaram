@@ -1,29 +1,12 @@
-
-<!-- ### Hi there 👋 -->
-
-<!--
-**praneeth/praneeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm Praneeth</h1>
 <h3 align="center">A Passionate Technophile from Hyderabad, India</h3>
 
-- 🔭 I'm currently pursuing my UG (B.E)
+- 🔭 I'm a recent graduate in Information Technology (B.E)
 - 🌱 I’m currently learning Machine Learning and AI
 - 👯 I’m looking to collaborate on Data Sceince and Machine Learning, Android Development Projects
-- 🤔 I’m looking for help with [Stock_Dashboard](https://github.com/praneethsattavaram/Stock_Dashboard) | [Nifty50-Portfolio](https://github.com/praneethsattavaram/Nifty50-Portfolio)
+
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/praneeth-reddy-841641205/) | [Mail](mailto:praneethsattavaram@gmail.com)
-- 📝 My Resume: [Resume](https://drive.google.com/file/d/1pwee54NDt3r_oUZFwVHSj9H5U8Hsq9IM/view)
+- 📝 My Resume: [Resume](https://drive.google.com/file/d/1s5vxof6yQ1ggvhsQStQP2fbYIOqg4HJ9/view?usp=sharing)
 - 😄 Pronouns: He/Him
 
 ---
@@ -36,13 +19,13 @@ Here are some ideas to get you started:
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
-<!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>  -->
-<!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>  -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
 <!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>  -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
 <!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>  -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
-<!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="40" height="40"/> -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
@@ -62,7 +45,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Praneeth's Instagram" height="30" width="30" />
 </a>
 
-<!--   <a href="mailto:praneethsattavaram@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="Praneeth's Email" height="30" width="40" /></a> -->
+ <a href="mailto:praneethsattavaram@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="Praneeth's Email" height="30" width="40" /></a>
 </p>
 
 ---
